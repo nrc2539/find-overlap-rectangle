@@ -2,7 +2,7 @@
 #### How to run code
 - ติดตั้ง Node.js (หากยังไม่ได้ติดตั้ง)
 - Clone repository นี้
-- เข้าไปยัง folder ที่ Clone แล้วใช้คำสั่ง node ./findOverlapRectangle.js
+- เข้าไปยัง folder ที่ Clone แล้วใช้คำสั่ง node findOverlapRectangle.js
 
 
 ------------
